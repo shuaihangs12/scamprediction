@@ -1,3 +1,3 @@
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask
 lightgbm==3.3.2
-nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+nltk 
